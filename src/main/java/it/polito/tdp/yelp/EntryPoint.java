@@ -1,11 +1,9 @@
 package it.polito.tdp.yelp;
 
 import javafx.application.Application;
-import static javafx.application.Application.launch;
 
 import it.polito.tdp.yelp.model.Model;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
